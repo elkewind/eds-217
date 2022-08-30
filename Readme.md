@@ -135,4 +135,6 @@ How to use this repository.
 	**Note:** We are using `pip` to manage dependencies within this conda environment. The use of `pip` and the `requirements.txt` file ensures consistency with our insallations on the JupyterHub server. This allows us to make sure that the working environment on our local machines matches *exactly* the working environment on JupyterHub. 
 
 	**Note:** If you add a package to your local environment that is used in any of the course materials, you must use `pip freeze > requirements.txt` and push the new commit to our repo. 
+	
+	Update
 
